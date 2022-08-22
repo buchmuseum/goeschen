@@ -1,130 +1,16 @@
 0500 Da
 0600 yy
-1100 1794 [empfang. 8.9.]$n02.09.1794 [empfang. 8.9.]
-1110 *02.09.1794 [empfang. 8.9.]$4ezth
+1100 1797
+1110 1797 [17. Juni empfangen]$4ezth
 1130 TB-papier
-1130 !040445224!Papier [Ts1]
-1131 !040082407!Brief [Ts1]
+1130 !040445224!
+1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 118554514$BVerfasser$4aut
-3010 118695916$BAdressat$4rcp
-4000 Brief von Christoph Wilhelm von Hufeland an Georg Joachim Göschen
-4046 Jena
-4060 1 Br., 1 S., 8˚
-4105 !1059146037!
-4105 !1077661932!
-4201 #todo
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !04028557X!
-7001 22-08-22 : x
-4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Hufeland, Ch. W./Brief 14, Kasten 7 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Hufeland, Ch. W./Brief 14, Kasten 7
-	
-0500 Da
-0600 yy
-1100 ?  Ohne Datum]$n1803 [?  Ohne Datum]
-1110 *1803 [?  Ohne Datum]$4ezth
-1130 TB-papier
-1130 !040445224!Papier [Ts1]
-1131 !040082407!Brief [Ts1]
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 11614095X$BVerfasser$4aut
-3010 118695916$BAdressat$4rcp
-4000 Brief von Johanna Elisabeth Klopstock an Georg Joachim Göschen
+3000 !118563386!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Friedrich Gottlieb Klopstock an Georg Joachim Göschen
 4046 [Entstehungsort nicht ermittelbar]
-4060 1 Br., 1 S., 8˚
-4105 !1059146037!
-4105 !1077661932!
-4201 #todo
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-7001 22-08-22 : x
-4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Klopstock, J. E. (geb. Dimpfel)/Brief 45, Kasten 9 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Klopstock, J. E. (geb. Dimpfel)/Brief 45, Kasten 9
-	
-0500 Da
-0600 yy
-1100 1805$n23.05.1805
-1110 *23.05.1805$4ezth
-1130 TB-papier
-1130 !040445224!Papier [Ts1]
-1131 !040082407!Brief [Ts1]
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 118622358$BVerfasser$4aut
-3010 118695916$BAdressat$4rcp
-4000 Brief von Moritz August von Thümmel an Georg Joachim Göschen
-4046 Gotha
-4060 1 Br., 2 S. mit Anschrift auf S. 4, 8˚
-4105 !1059146037!
-4105 !1077661932!
-4201 #todo
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !040216527!
-7001 22-08-22 : x
-4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Thümmel, M. A./Brief 17, Kasten 14 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Thümmel, M. A./Brief 17, Kasten 14
-	
-0500 Da
-0600 yy
-1100 1827$n28.05.1827
-1110 *28.05.1827$4ezth
-1130 TB-papier
-1130 !040445224!Papier [Ts1]
-1131 !040082407!Brief [Ts1]
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 118695916$BVerfasser$4aut
-3010 117245119$BAdressat$4rcp
-4000 Brief von Georg Joachim Göschen an Erdmann Ferdinand Steinacker
-4046 Leipzig
-4060 1 Br., 1 S. mit Anschrift auf S. 2, 8˚
-4105 !1059146037!
-4105 !1077661932!
-4201 #todo
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !040352064!
-7001 22-08-22 : x
-4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Göschen, G. J./Brief 33, Kasten 5 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Göschen, G. J./Brief 33, Kasten 5
-	
-0500 Da
-0600 yy
-1100 1791$n02.04.1791
-1110 *02.04.1791$4ezth
-1130 TB-papier
-1130 !040445224!Papier [Ts1]
-1131 !040082407!Brief [Ts1]
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 100308023$BVerfasser$4aut
-3010 118695916$BAdressat$4rcp
-4000 Brief von August Gottlieb Meißner an Georg Joachim Göschen
-4046 Prag
 4060 1 Br., 4 S., 8˚
 4105 !1059146037!
 4105 !1077661932!
@@ -136,6 +22,122 @@
 7001 22-08-22 : x
 4800 !009033645!
 6710 !1032507942!$l
-7100 Bö-GS/A/Meißner, A. G./Brief 20, Kasten 10 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Meißner, A. G./Brief 20, Kasten 10
+7100 Bö-GS/A/Klopstock, Fr. G./Brief 12, Kasten 9 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Klopstock, Fr. G./Brief 12, Kasten 9
+	
+0500 Da
+0600 yy
+1100 1788
+1110 19.09.1788 [empfang. 22.9.]*19.09.1788$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !118660438!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Johann Joachim Christoph Bode an Georg Joachim Göschen
+4046 Weimar
+4060 1 Br., 1 S. mit etw. Textverlust
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040651053!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Bode, J. J. Ch./Brief 13, Kasten 3 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Bode, J. J. Ch./Brief 13, Kasten 3
+	
+0500 Da
+0600 yy
+1100 1803
+1110 12.06.1803*12.06.1803$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !116013311!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Ludwig August Kähler an Georg Joachim Göschen
+4046 Canig
+4060 1 Br., 6 S., mit etw. Textverlust, 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+4705 Sehr persönlich gehaltene freundschaftliche Betrachtungen und Dank über Ausstattung und Zusendung seines Romans "Martin" (der u. dem Pseud. Filibert 1803 erschienen ist) sowie Hinweis auf den zuvor ebenda verlegten Roman "Graf Friedrich von Werben" (1802); ferner krit. Bemerkungen über andere Vö. aus Göschens Verlag
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Kähler, L. A./Brief 1, Kasten 8 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Kähler, L. A./Brief 1, Kasten 8
+	
+0500 Da
+0600 yy
+1100 1792
+1110 04.08.1792*04.08.1792$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !117221414!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Johann Friedrich Jünger an Georg Joachim Göschen
+4046 Wien
+4060 1 Br., 1 S., 4˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+4705 Betr. Titeländerung seines Werkes "Comisches Theater"; Bitte um Zusendung seiner einzelnen Werke. Diese sind im Verlagskatalog von Göschen 1785-1901 angezeigt 1787 ff.: das "Kom. Theater" nochmals 1861
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040660095!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507993!$l
+7100 Bö-GS/C/Jünger, J. Fr./Brief 2 @ m
+7109 !!DBSM/S!! ; Bö-GS/C/Jünger, J. Fr./Brief 2
+	
+0500 Da
+0600 yy
+1100 1809
+1110 08.12.1809*08.12.1809$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !119368587!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Betty Gleim an Georg Joachim Göschen
+4046 Bremen
+4060 1 Br., 2 S., mit etw. Textverlust, 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040081354!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Gleim, B./Brief 13, Kasten 5 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Gleim, B./Brief 13, Kasten 5
 	
