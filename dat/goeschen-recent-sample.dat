@@ -1,45 +1,141 @@
 0500 Da
 0600 yy
-1100 1806$n11.04.1806
-1110 *11.04.1806$4ezth
+1100 1794 [empfang. 8.9.]$n02.09.1794 [empfang. 8.9.]
+1110 *02.09.1794 [empfang. 8.9.]$4ezth
 1130 TB-papier
 1130 !040445224!Papier [Ts1]
 1131 !040082407!Brief [Ts1]
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 118554514$BVerfasser$4aut
+3010 118695916$BAdressat$4rcp
+4000 Brief von Christoph Wilhelm von Hufeland an Georg Joachim Göschen
+4046 Jena
+4060 1 Br., 1 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !04028557X!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Hufeland, Ch. W./Brief 14, Kasten 7 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Hufeland, Ch. W./Brief 14, Kasten 7
 	
 0500 Da
 0600 yy
-1100 1787$n03.08.1787
-1110 *03.08.1787$4ezth
+1100 ?  Ohne Datum]$n1803 [?  Ohne Datum]
+1110 *1803 [?  Ohne Datum]$4ezth
 1130 TB-papier
 1130 !040445224!Papier [Ts1]
 1131 !040082407!Brief [Ts1]
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 11614095X$BVerfasser$4aut
+3010 118695916$BAdressat$4rcp
+4000 Brief von Johanna Elisabeth Klopstock an Georg Joachim Göschen
+4046 [Entstehungsort nicht ermittelbar]
+4060 1 Br., 1 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Klopstock, J. E. (geb. Dimpfel)/Brief 45, Kasten 9 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Klopstock, J. E. (geb. Dimpfel)/Brief 45, Kasten 9
 	
 0500 Da
 0600 yy
-1100 1805$n06.02.1805
-1110 *06.02.1805$4ezth
+1100 1805$n23.05.1805
+1110 *23.05.1805$4ezth
 1130 TB-papier
 1130 !040445224!Papier [Ts1]
 1131 !040082407!Brief [Ts1]
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 118622358$BVerfasser$4aut
+3010 118695916$BAdressat$4rcp
+4000 Brief von Moritz August von Thümmel an Georg Joachim Göschen
+4046 Gotha
+4060 1 Br., 2 S. mit Anschrift auf S. 4, 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040216527!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Thümmel, M. A./Brief 17, Kasten 14 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Thümmel, M. A./Brief 17, Kasten 14
 	
 0500 Da
 0600 yy
-1100 1827 [15.6.182(7?)]$n15.06.1827 [15.6.182(7?)]
-1110 *15.06.1827 [15.6.182(7?)]$4ezth
+1100 1827$n28.05.1827
+1110 *28.05.1827$4ezth
 1130 TB-papier
 1130 !040445224!Papier [Ts1]
 1131 !040082407!Brief [Ts1]
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 118695916$BVerfasser$4aut
+3010 117245119$BAdressat$4rcp
+4000 Brief von Georg Joachim Göschen an Erdmann Ferdinand Steinacker
+4046 Leipzig
+4060 1 Br., 1 S. mit Anschrift auf S. 2, 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040352064!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Göschen, G. J./Brief 33, Kasten 5 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Göschen, G. J./Brief 33, Kasten 5
 	
 0500 Da
 0600 yy
-1100 $n]
-1110 *]$4ezth
+1100 1791$n02.04.1791
+1110 *02.04.1791$4ezth
 1130 TB-papier
 1130 !040445224!Papier [Ts1]
 1131 !040082407!Brief [Ts1]
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 100308023$BVerfasser$4aut
+3010 118695916$BAdressat$4rcp
+4000 Brief von August Gottlieb Meißner an Georg Joachim Göschen
+4046 Prag
+4060 1 Br., 4 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7001 22-08-22 : x
+4800 !009033645!
+6710 !1032507942!$l
+7100 Bö-GS/A/Meißner, A. G./Brief 20, Kasten 10 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Meißner, A. G./Brief 20, Kasten 10
 	
