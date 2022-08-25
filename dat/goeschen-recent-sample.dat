@@ -1,16 +1,103 @@
 0500 Da
 0600 yy
-1100 1797
-1110 1797 [17. Juni empfangen]$4ezth
+1100 1806
+1110 28.01.1806*28.01.1806$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !118563386!$BVerfasser$4aut
+3000 !215674!$BVerfasser$4aut
 3010 !118695916!$BAdressat$4rcp
-4000 Brief von Friedrich Gottlieb Klopstock an Georg Joachim Göschen
-4046 [Entstehungsort nicht ermittelbar]
+4000 Brief von Frey an Georg Joachim Göschen
+4046 Karlsruhe
+4060 1 Br., 2 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+4705 Preisanfrage nach Wielands und Klopstocks Werken, sowie der Sammlung lateinischer Autoren, soweit erschienen
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040297136!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Frey, .../Brief 1, Kasten 4 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Frey, .../Brief 1, Kasten 4
+	
+0500 Da
+0600 yy
+1100 1824
+1110 22.07.1824*22.07.1824$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !118707280!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Ernst von Houwald an Georg Joachim Göschen
+4046 Jindřichův Hradec
+4060 1 Br., 4 S., mit etw. Textverlust, 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Houwald, E. Ch./Brief 21, Kasten 6 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Houwald, E. Ch./Brief 21, Kasten 6
+	
+0500 Da
+0600 yy
+1100 1885
+1110 27.11.1885*27.11.1885$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !119487551!$BAdressat$4rcp
+3010 !33921!$BVerfasser$4aut
+4000 Brief von B.S.Berendsohn Verlag (Hamburg) an George Joachim Goschen Goschen
+4046 Hamburg
+4060 1 Br., 2 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 #todo
+4700 |BSM|
+4705 Aufgrund der Suche des Viscount Goschen in englischen Zeitungen bietet Berendsohn die in seinem Besitz befindlichen Originalbriefe an die Firma Göschen aus der fraglichen Zeit an und ferner Originale von Zeitgenossen der klassischen Periode der deutschen Literatur laut anhängender handschriftlichen Liste
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040231186!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032508027!
+7100 Bö-GS/D/Berendsohn, B. S./Brief 92 @ m
+7109 !!DBSM/S!! ; Bö-GS/D/Berendsohn, B. S./Brief 92
+	
+0500 Da
+0600 yy
+1100 1804
+1110 06.12.1804*06.12.1804$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !104264950!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Friedrich August Müller an Georg Joachim Göschen
+4046 Wien
 4060 1 Br., 4 S., 8˚
 4105 !1059146037!
 4105 !1077661932!
@@ -19,125 +106,39 @@
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040082407!
-7001 22-08-22 : x
-4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Klopstock, Fr. G./Brief 12, Kasten 9 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Klopstock, Fr. G./Brief 12, Kasten 9
-	
-0500 Da
-0600 yy
-1100 1788
-1110 19.09.1788 [empfang. 22.9.]*19.09.1788$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !118660438!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Johann Joachim Christoph Bode an Georg Joachim Göschen
-4046 Weimar
-4060 1 Br., 1 S. mit etw. Textverlust
-4105 !1059146037!
-4105 !1077661932!
-4201 #todo
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !040651053!
-7001 22-08-22 : x
-4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Bode, J. J. Ch./Brief 13, Kasten 3 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Bode, J. J. Ch./Brief 13, Kasten 3
-	
-0500 Da
-0600 yy
-1100 1803
-1110 12.06.1803*12.06.1803$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !116013311!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Ludwig August Kähler an Georg Joachim Göschen
-4046 Canig
-4060 1 Br., 6 S., mit etw. Textverlust, 8˚
-4105 !1059146037!
-4105 !1077661932!
-4201 #todo
-4700 |BSM|
-4705 Sehr persönlich gehaltene freundschaftliche Betrachtungen und Dank über Ausstattung und Zusendung seines Romans "Martin" (der u. dem Pseud. Filibert 1803 erschienen ist) sowie Hinweis auf den zuvor ebenda verlegten Roman "Graf Friedrich von Werben" (1802); ferner krit. Bemerkungen über andere Vö. aus Göschens Verlag
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-7001 22-08-22 : x
-4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Kähler, L. A./Brief 1, Kasten 8 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Kähler, L. A./Brief 1, Kasten 8
-	
-0500 Da
-0600 yy
-1100 1792
-1110 04.08.1792*04.08.1792$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !117221414!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Johann Friedrich Jünger an Georg Joachim Göschen
-4046 Wien
-4060 1 Br., 1 S., 4˚
-4105 !1059146037!
-4105 !1077661932!
-4201 #todo
-4700 |BSM|
-4705 Betr. Titeländerung seines Werkes "Comisches Theater"; Bitte um Zusendung seiner einzelnen Werke. Diese sind im Verlagskatalog von Göschen 1785-1901 angezeigt 1787 ff.: das "Kom. Theater" nochmals 1861
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
 5591 [Entstehungsort]
 5591 !040660095!
-7001 22-08-22 : x
+7001 25-08-22 : x
 4800 !009033645!
-6710 !1032507993!$l
-7100 Bö-GS/C/Jünger, J. Fr./Brief 2 @ m
-7109 !!DBSM/S!! ; Bö-GS/C/Jünger, J. Fr./Brief 2
+6710 !1032507942!
+7100 Bö-GS/A/Mueller, Fr. A./Brief 4, Kasten 11 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Mueller, Fr. A./Brief 4, Kasten 11
 	
 0500 Da
 0600 yy
 1100 1809
-1110 08.12.1809*08.12.1809$4ezth
+1110 28.06.1809*28.06.1809$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !119368587!$BVerfasser$4aut
+3000 !118809539!$BVerfasser$4aut
 3010 !118695916!$BAdressat$4rcp
-4000 Brief von Betty Gleim an Georg Joachim Göschen
-4046 Bremen
-4060 1 Br., 2 S., mit etw. Textverlust, 8˚
+4000 Brief von Friedrich Sickler an Georg Joachim Göschen
+4046 Rom
+4060 1 Br., 4 S., 8˚
 4105 !1059146037!
 4105 !1077661932!
 4201 #todo
 4700 |BSM|
+4705 Betr. den "Almanach aus Rom"
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040082407!
-5591 [Entstehungsort]
-5591 !040081354!
-7001 22-08-22 : x
+7001 25-08-22 : x
 4800 !009033645!
-6710 !1032507942!$l
-7100 Bö-GS/A/Gleim, B./Brief 13, Kasten 5 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Gleim, B./Brief 13, Kasten 5
+6710 !1032507942!
+7100 Bö-GS/A/Sickler, Fr. K. L./Brief 2, Kasten 13 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Sickler, Fr. K. L./Brief 2, Kasten 13
 	
