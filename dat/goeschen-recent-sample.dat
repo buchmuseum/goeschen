@@ -1,119 +1,116 @@
 0500 Da
 0600 yy
-1100 1794$n25.02.1794 [empfang. 28.2.]
-1110 25.02.1794 [empfang. 28.2.]*25.02.1794$4ezth
+1100 1800$n22.09.1800 [empfang. 26.9.]
+1110 22.09.1800 [empfang. 26.9.]*22.09.1800$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !116130709!$BVerfasser$4aut
+3000 !11710745X!$BVerfasser$4aut
 3010 !118695916!$BAdressat$4rcp
-4000 Brief von Daniel Berger an Georg Joachim Göschen
-4046 Berlin
-4060 1 Br., 1 S.
+4000 Brief von Ludwig Schubart an Georg Joachim Göschen
+4046 Nürnberg
+4060 1 Br., 4 S., 8˚
 4105 !1059146037!
 4105 !1077661932!
+4201 alternative Namensform Verf.: Schubart, Ludwig Albrecht
 4700 |BSM|
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040082407!
 5591 [Entstehungsort]
-5591 !040057283!
+5591 !040427420!
 7001 05-09-22 : x
 4800 !009033645!
 6710 !1032507942!
-7100 Bö-GS/A/Berger, D./Brief 5, Kasten 2 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Berger, D./Brief 5, Kasten 2
+7100 Bö-GS/A/Schubart, L. A./Brief 12, Kasten 12 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Schubart, L. A./Brief 12, Kasten 12
 	
 0500 Da
 0600 yy
-1100 1792$n13.11.1792
-1110 13.11.1792*13.11.1792$4ezth
+1100 1797$n06.12.1797
+1110 06.12.1797*06.12.1797$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !118521101!$BVerfasser$4aut
+3000 !118563386!$BVerfasser$4aut
 3010 !118695916!$BAdressat$4rcp
-4000 Brief von Heinrich Clauren an Georg Joachim Göschen
-4046 Berlin
-4060 1 Br., 2 S., 4˚
+4000 Brief von Friedrich Gottlieb Klopstock an Georg Joachim Göschen
+4046 [Entstehungsort nicht ermittelbar]
+4060 1 Br., 4 S., 8˚
 4105 !1059146037!
 4105 !1077661932!
-4201 alternative Namensform Verf.: Heun, Carl Gottlieb Samuel
 4700 |BSM|
-4705 Betr. vorwiegend persönliche Angelegenheiten
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040082407!
-5591 [Entstehungsort]
-5591 !040057283!
+7001 05-09-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Klopstock, Fr. G./Brief 19, Kasten 9 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Klopstock, Fr. G./Brief 19, Kasten 9
+	
+0500 Da
+0600 yy
+1100 1900$n05.10.1900
+1110 05.10.1900*05.10.1900$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !11634279X!$BVerfasser$4aut
+3010 !119487551!$BAdressat$4rcp
+4000 Brief von Fritz Arndt an George Joachim Goschen Goschen
+4046 Oberwartha
+4060 1 Brief-Fragment, 2 S., 8˚ (anhängende Blatt mit Namenszug ist Verlust)
+4105 !1059146037!
+4105 !1077661932!
+4201 alternative Namensform Adr.: Goschen, George Joachim
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7001 05-09-22 : x
+4800 !009033645!
+6710 !1032508027!
+7100 Bö-GS/D/Arndt, F./Brief 91 (=Arndt Nr 5) @ m
+7109 !!DBSM/S!! ; Bö-GS/D/Arndt, F./Brief 91 (=Arndt Nr 5)
+	
+0500 Da
+0600 yy
+1100 1800$n22.09.1800
+1110 22.09.1800*22.09.1800$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !11710745X!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Ludwig Schubart an Georg Joachim Göschen
+4046 [Entstehungsort nicht ermittelbar]
+4060 1 Br., 4 Exemplare
+4105 !1059146037!
+4105 !1077661932!
+4201 alternative Namensform Verf.: Schubart, Ludwig Albrecht
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
 7001 05-09-22 : x
 4800 !009033645!
 6710 !1032507993!
-7100 Bö-GS/C/Heun, C. G. S./Brief 1 @ m
-7109 !!DBSM/S!! ; Bö-GS/C/Heun, C. G. S./Brief 1
+7100 Bö-GS/C/Schubart, L. A./Brief 12 @ m
+7109 !!DBSM/S!! ; Bö-GS/C/Schubart, L. A./Brief 12
 	
 0500 Da
 0600 yy
-1100 1796$n26.02.1796 [empfang. 2.3.]
-1110 26.02.1796 [empfang. 2.3.]*26.02.1796$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !100143695!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Johann Isaak von Gerning an Georg Joachim Göschen
-4046 Frankfurt/Main
-4060 1 Br., 3 S. mit etw. Textverlust, 8˚. Mit zeitgen. Notiz
-4105 !1059146037!
-4105 !1077661932!
-4201 alternative Namensform Verf.: Gerning, Jakob Isaak von
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-7001 05-09-22 : x
-4800 !009033645!
-6710 !1032507942!
-7100 Bö-GS/A/Gerning, J. I./Brief 3, Kasten 5 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Gerning, J. I./Brief 3, Kasten 5
-	
-0500 Da
-0600 yy
-1100 1817$n24.11.1817
-1110 24.11.1817*24.11.1817$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !118707280!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Ernst von Houwald an Georg Joachim Göschen
-4046 Sellendorf [bei Luckau, Niederlausitz]
-4060 1 Br., 4 S., mit etw. Textverlust, 8˚
-4105 !1059146037!
-4105 !1077661932!
-4201 alternative Namensform Verf.: Houwald, Ernst Christoph von
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-7001 05-09-22 : x
-4800 !009033645!
-6710 !1032507942!
-7100 Bö-GS/A/Houwald, E. Ch./Brief 2, Kasten 6 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Houwald, E. Ch./Brief 2, Kasten 6
-	
-0500 Da
-0600 yy
-1100 1796$n01.06.1796
-1110 01.06.1796*01.06.1796$4ezth
+1100 1790$n10.04.1790
+1110 10.04.1790*10.04.1790$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
@@ -123,7 +120,7 @@
 3010 !118695916!$BAdressat$4rcp
 4000 Brief von Rudolf Zacharias Becker an Georg Joachim Göschen
 4046 Gotha
-4060 1 Br., 1 S. (mit Anschrift)
+4060 1 Br., 2 S.
 4105 !1059146037!
 4105 !1077661932!
 4700 |BSM|
@@ -135,6 +132,6 @@
 7001 05-09-22 : x
 4800 !009033645!
 6710 !1032507942!
-7100 Bö-GS/A/Becker, R. Z./Brief 12, Kasten 2 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Becker, R. Z./Brief 12, Kasten 2
+7100 Bö-GS/A/Becker, R. Z./Brief 7, Kasten 2 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Becker, R. Z./Brief 7, Kasten 2
 	
