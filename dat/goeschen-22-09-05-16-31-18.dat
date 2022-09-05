@@ -110,7 +110,7 @@
 	
 0500 Da
 0600 yy
-1100 1809$no.D. [27.April o.J. (1809?)]
+1100 1809?
 1110 o.D. [27.April o.J. (1809?)]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -2156,7 +2156,7 @@
 	
 0500 Da
 0600 yy
-1100 1798$no.D. [zwischen 1798 und 1802]
+1100 1798
 1110 o.D. [zwischen 1798 und 1802]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -2184,7 +2184,7 @@
 	
 0500 Da
 0600 yy
-1100 1797$no.D. [ca. 1797]
+1100 1797
 1110 o.D. [ca. 1797]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -2212,7 +2212,7 @@
 	
 0500 Da
 0600 yy
-1100 1797$no.D. [etwa 1797 oder danach]
+1100 1797
 1110 o.D. [etwa 1797 oder danach]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -3496,7 +3496,7 @@
 	
 0500 Da
 0600 yy
-1100 1786$no.D. [ca. 1786]
+1100 1786
 1110 o.D. [ca. 1786]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -6644,7 +6644,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !11940124X!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
+3010 Unbekannt3020 !118695916!$BAdressat$4rcp
 4000 Brief von Franz (Sachsen-Coburg-Saalfeld, Herzog) an Georg Joachim Göschen, geschrieben von Unbekannt
 4046 Coburg
 4060 1 Br., 2 S., 8˚ (Von Kanzlistenhand mit eigenhändiger Unterschrift "Franz Herzog von Coburg")
@@ -6674,7 +6674,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !11940124X!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
+3010 Unbekannt3020 !118695916!$BAdressat$4rcp
 4000 Brief von Franz (Sachsen-Coburg-Saalfeld, Herzog) an Georg Joachim Göschen, geschrieben von Unbekannt
 4046 Coburg
 4060 1 Br., 1 S., 8˚ (Von Kanzlistenhand mit eigenhändiger Unterschrift "Franz Herzog von Coburg")
@@ -7876,7 +7876,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !118695916!$BVerfasser$4aut
-4000 Brief von Georg Joachim Göschen an Unbekannt
+3010 Unbekannt4000 Brief von Georg Joachim Göschen an Unbekannt
 4046 [Entstehungsort nicht ermittelbar]
 4060 1 Br., 1 S., 8˚
 4105 !1059146037!
@@ -7957,7 +7957,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !118695916!$BVerfasser$4aut
-4000 Brief von Georg Joachim Göschen an Unbekannt
+3010 Unbekannt4000 Brief von Georg Joachim Göschen an Unbekannt
 4046 Leipzig
 4060 1 Br., 1 S., 8˚
 4105 !1059146037!
@@ -8395,7 +8395,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !118695916!$BVerfasser$4aut
-4000 Brief von Georg Joachim Göschen an Unbekannt
+3010 Unbekannt4000 Brief von Georg Joachim Göschen an Unbekannt
 4046 [Entstehungsort nicht ermittelbar]
 4060 1 Br., 1 S., qu.8˚
 4105 !1059146037!
@@ -8494,7 +8494,7 @@
 	
 0500 Da
 0600 yy
-1100 1787$no.D. [etwa Mitte Dezember 1787]
+1100 1787
 1110 o.D. [etwa Mitte Dezember 1787]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -8527,7 +8527,7 @@
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !118508008!$BAdressat$4rcp
+3000 Unbekannt3010 !118508008!$BAdressat$4rcp
 4000 Brief von Unbekannt an Heinrich Beck
 4046 [Entstehungsort nicht ermittelbar]
 4060 1 Brief-Fragment, 4 S., mit etw. Textverlust, 8˚
@@ -9197,7 +9197,7 @@
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !118695916!$BDokumentiert$4oth
+3000 Unbekannt3010 !118695916!$BDokumentiert$4oth
 4000 Dokument von Unbekannt
 4046 [Entstehungsort nicht ermittelbar]
 4060 Kurze Biographie Göschens, 1 Blatt, qu.8˚
@@ -12005,7 +12005,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !117078395!$BVerfasser$4aut
-4000 Brief von Christian Heinrich Jani an Unbekannt
+3010 Unbekannt4000 Brief von Christian Heinrich Jani an Unbekannt
 4046 Gera
 4060 1 Br., 4 S.
 4105 !1059146037!
@@ -12672,7 +12672,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !118555324!$BVerfasser$4aut
-4000 Brief von August Wilhelm Iffland an Unbekannt
+3010 Unbekannt4000 Brief von August Wilhelm Iffland an Unbekannt
 4046 Berlin
 4060 1 Br., 1 S., 8˚
 4105 !1059146037!
@@ -15764,7 +15764,7 @@
 	
 0500 Da
 0600 yy
-1100 1800$no.D. [etwa um 1800]
+1100 1800
 1110 o.D. [etwa um 1800]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -17249,7 +17249,7 @@
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !118787179!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
+3010 Unbekannt3020 !118695916!$BAdressat$4rcp
 4000 Brief von Johann Kaspar von Orelli an Georg Joachim Göschen, geschrieben von Unbekannt
 4046 Zürich
 4060 1 Br., 1 S. mit Anschrift auf der Rückseite, 8˚
@@ -18414,7 +18414,7 @@
 	
 0500 Da
 0600 yy
-1100 1793$no.D. [empfang. 16.4.1793]
+1100 1793
 1110 o.D. [empfang. 16.4.1793]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -19516,7 +19516,7 @@ s. auch Briefkopien an Böttiger, K. A.
 	
 0500 Da
 0600 yy
-1100 1819$no.D. [etwa 1819]
+1100 1819
 1110 o.D. [etwa 1819]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -19606,7 +19606,7 @@ s. auch Briefkopien an Böttiger, K. A.
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !118695916!$BVerfasser$4aut
-4000 Brief von Georg Joachim Göschen an Unbekannt
+3010 Unbekannt4000 Brief von Georg Joachim Göschen an Unbekannt
 4046 Leipzig
 4060 1 Rundschreiben, 1 Blatt 8˚
 4105 !1059146037!
@@ -20611,7 +20611,7 @@ s. auch Briefkopien an Böttiger, K. A.
 	
 0500 Da
 0600 yy
-1100 1789$no.D. [wahrscheinlich 24.5.1789]
+1100 1789
 1110 o.D. [wahrscheinlich 24.5.1789]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -21011,7 +21011,7 @@ s. auch Briefkopien an Böttiger, K. A.
 	
 0500 Da
 0600 yy
-1100 1785$no.D. [vor 5. März 1785, wahrsch. 1784]
+1100 1785
 1110 o.D. [vor 5. März 1785, wahrsch. 1784]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -21970,7 +21970,7 @@ s. auch Briefkopien an Böttiger, K. A.
 	
 0500 Da
 0600 yy
-1100 1797$no.D. [empfang. 17.6.1797]
+1100 1797
 1110 o.D. [empfang. 17.6.1797]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -22307,7 +22307,7 @@ s. auch Briefkopien an Böttiger, K. A.
 	
 0500 Da
 0600 yy
-1100 1811$no.D. [vermutlich 1811]
+1100 1811
 1110 o.D. [vermutlich 1811]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -24065,7 +24065,7 @@ annten Besitz, datiert: Halle, 29.11.1802
 	
 0500 Da
 0600 yy
-1100 1884$no.D. [nach 12.2.1884]
+1100 1884
 1110 o.D. [nach 12.2.1884]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -24149,7 +24149,7 @@ annten Besitz, datiert: Halle, 29.11.1802
 	
 0500 Da
 0600 yy
-1100 1894$no.D. [nach 7.12.1894]
+1100 1894
 1110 o.D. [nach 7.12.1894]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -25367,7 +25367,7 @@ Widerlegt Goschens Ansicht, daß Göschen mit Bode schon früher in Verbindung g
 	
 0500 Da
 0600 yy
-1100 1886$no.D. [Textverlust des Datums, wahrscheinlich nach dem 17.12.1886]
+1100 1886
 1110 o.D. [Textverlust des Datums, wahrscheinlich nach dem 17.12.1886]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -25497,7 +25497,7 @@ Goschens Anfrage nach Briefwechsel Goethe, Schiller; Bewertung von Schillerbrief
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !116884452!$BVerfasser$4aut
-3010 !119487551!$BAdressat$4rcp
+3010 Unbekannt3020 !119487551!$BAdressat$4rcp
 4000 Brief von Adolf Nast an George Joachim Goschen Goschen, geschrieben von Unbekannt
 4046 Stuttgart
 4060 1 Br., 2 S., 8˚ (geschrieben von anderer Hand, aber mit Nasts eigenhändiger Unterschrift)
@@ -27292,7 +27292,7 @@ Goschens Anfrage nach Briefwechsel Goethe, Schiller; Bewertung von Schillerbrief
 	
 0500 Da
 0600 yy
-1100 1793$no.D. [Empfangsbestätigung von anderer Hand: "Jena, 20.9.", etwa 1793, nach dem 1. Juni]
+1100 1793
 1110 o.D. [Empfangsbestätigung von anderer Hand: "Jena, 20.9.", etwa 1793, nach dem 1. Juni]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -27626,7 +27626,7 @@ Goschens Anfrage nach Briefwechsel Goethe, Schiller; Bewertung von Schillerbrief
 	
 0500 Da
 0600 yy
-1100 1807$no.D. [empfang. im März 1807]
+1100 1807
 1110 o.D. [empfang. im März 1807]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -27682,7 +27682,7 @@ Goschens Anfrage nach Briefwechsel Goethe, Schiller; Bewertung von Schillerbrief
 	
 0500 Da
 0600 yy
-1100 1807$no.D. [Empfangsdatum: 23.5.1807]
+1100 1807
 1110 o.D. [Empfangsdatum: 23.5.1807]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -27710,7 +27710,7 @@ Goschens Anfrage nach Briefwechsel Goethe, Schiller; Bewertung von Schillerbrief
 	
 0500 Da
 0600 yy
-1100 1807$no.D. [Empfangsdatum: 3.6.1807]
+1100 1807
 1110 o.D. [Empfangsdatum: 3.6.1807]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -31599,7 +31599,7 @@ Goschens Anfrage nach Briefwechsel Goethe, Schiller; Bewertung von Schillerbrief
 	
 0500 Da
 0600 yy
-1100 1784$no.D. [wohl Dez. 1784]
+1100 1784
 1110 o.D. [wohl Dez. 1784]$4ezth
 1130 TB-papier
 1130 !040445224!
@@ -33109,7 +33109,7 @@ Nach Briefaussage wollte er sich im Halbjahr nach seinem Briefdatum als Privatdo
 	
 0500 Da
 0600 yy
-1100 1787$no.D. [vor 3.12.1787]
+1100 1787
 1110 o.D. [vor 3.12.1787]$4ezth
 1130 TB-papier
 1130 !040445224!
