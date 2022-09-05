@@ -1,17 +1,17 @@
 0500 Da
 0600 yy
-1100 1786
-1110 14.02.1786*14.02.1786$4ezth
+1100 1787$n15.02.1787
+1110 15.02.1787*15.02.1787$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
 3000 !118755544!$BVerfasser$4aut
-3010 !356131!$BAdressat$4rcp
-4000 Brief von Christian zu Stolberg-Stolberg an Asmus Löck
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Christian zu Stolberg-Stolberg an Georg Joachim Göschen
 4046 Tremsbüttel
-4060 1 Br., 2 bzw. 1 S.
+4060 1 Br., 1 S.
 4105 !1059146037!
 4105 !1077661932!
 4201 alternative Namensform Verf.: Stolberg, Christian Graf zu
@@ -19,102 +19,16 @@
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040082407!
-7001 02-09-22 : x
+7001 05-09-22 : x
 4800 !009033645!
 6710 !1032507942!
-7100 Bö-GS/A/Stolberg, Chr./Brief 3, Kasten 13 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Stolberg, Chr./Brief 3, Kasten 13
+7100 Bö-GS/A/Stolberg, Chr./Brief 14, Kasten 13 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Stolberg, Chr./Brief 14, Kasten 13
 	
 0500 Da
 0600 yy
-1100 [1797]
-1110 o.D. [ca. 1797]$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !116096438!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Johann Friedrich Bause an Georg Joachim Göschen
-4046 Leipzig
-4060 1 Br., 1 S.
-4105 !1059146037!
-4105 !1077661932!
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !040352064!
-7001 02-09-22 : x
-4800 !009033645!
-6710 !1032507942!
-7100 Bö-GS/A/Bause, J. F./Brief 2, Kasten 2 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Bause, J. F./Brief 2, Kasten 2
-	
-0500 Da
-0600 yy
-1100 1792
-1110 26.03.1792*26.03.1792$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !116075392!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Anton von Bartolotti an Georg Joachim Göschen
-4046 Pest
-4060 1 Br., 2 S.
-4105 !1059146037!
-4105 !1077661932!
-4201 alternative Namensform Verf.: Bartolotti, Anton Edler von
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-7001 02-09-22 : x
-4800 !009033645!
-6710 !1032507942!
-7100 Bö-GS/A/Bartolotti, A./Brief 1, Kasten 2 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Bartolotti, A./Brief 1, Kasten 2
-	
-0500 Da
-0600 yy
-1100 1886
-1110 25.02.1886 [und anhängend 27.2.]*25.02.1886$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !117234214!$BVerfasser$4aut
-3010 !119487551!$BAdressat$4rcp
-4000 Brief von Ferdinand Weibert an George Joachim Goschen Goschen
-4046 Stuttgart
-4060 1 Br., 4 S., 8˚
-4105 !1059146037!
-4105 !1077661932!
-4201 alternative Namensform Adr.: Goschen, George Joachim
-4700 |BSM|
-4705 Betr. Vorarbeiten und Abfassung der Biographie Goschens Großvaters Georg Joachim Göschen und zugleich über die eigene Veröffentlichung Weiberts einer Chronik der Firma Göschen anläßlich des 100jährigen Bestehens.
-Gibt Übersicht derjenigen seiner eigenen Texte, die er eben an Goschen zurückgesandt hat; Ansichten über Bedeutung eines Autographenangebotes von Hiersemann in Leipzig
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !040582825!
-7001 02-09-22 : x
-4800 !009033645!
-6710 !1032508027!
-7100 Bö-GS/D/Weibert, F./Brief 63 (=Weibert Nr 33) @ m
-7109 !!DBSM/S!! ; Bö-GS/D/Weibert, F./Brief 63 (=Weibert Nr 33)
-	
-0500 Da
-0600 yy
-1100 1788
-1110 27.11.1788 [empfang. 3.12., beantwortet dato]*27.11.1788$4ezth
+1100 1788$n10.10.1788 [empfang. 15.10.]
+1110 10.10.1788 [empfang. 15.10.]*10.10.1788$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
@@ -124,7 +38,7 @@ Gibt Übersicht derjenigen seiner eigenen Texte, die er eben an Goschen zurückg
 3010 !118695916!$BAdressat$4rcp
 4000 Brief von Johann Joachim Christoph Bode an Georg Joachim Göschen
 4046 Weimar
-4060 1 Br., 3 S.
+4060 1 Br., 2 S.
 4105 !1059146037!
 4105 !1077661932!
 4700 |BSM|
@@ -133,9 +47,93 @@ Gibt Übersicht derjenigen seiner eigenen Texte, die er eben an Goschen zurückg
 5590 !040082407!
 5591 [Entstehungsort]
 5591 !040651053!
-7001 02-09-22 : x
+7001 05-09-22 : x
 4800 !009033645!
 6710 !1032507942!
-7100 Bö-GS/A/Bode, J. J. Ch./Brief 17, Kasten 3 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Bode, J. J. Ch./Brief 17, Kasten 3
+7100 Bö-GS/A/Bode, J. J. Ch./Brief 15, Kasten 3 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Bode, J. J. Ch./Brief 15, Kasten 3
+	
+0500 Da
+0600 yy
+1100 1793$n18.09.1793
+1110 18.09.1793*18.09.1793$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !119024241!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Johann Benjamin Erhard an Georg Joachim Göschen
+4046 [Entstehungsort nicht ermittelbar]
+4060 1 Br.
+4105 !1059146037!
+4105 !1077661932!
+4700 |BSM|
+4705 Guttenberg bearbeitet Kupfer stechen; macht Vorschläge über Abhandlungen
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7001 05-09-22 : x
+4800 !009033645!
+6710 !1032507993!
+7100 Bö-GS/C/Erhard, J. B./Brief 7 @ m
+7109 !!DBSM/S!! ; Bö-GS/C/Erhard, J. B./Brief 7
+	
+0500 Da
+0600 yy
+1100 1798$n23.04.1798
+1110 23.04.1798*23.04.1798$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !11710745X!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Ludwig Schubart an Georg Joachim Göschen
+4046 [Entstehungsort nicht ermittelbar]
+4060 1 Br., 4 Exemplare
+4105 !1059146037!
+4105 !1077661932!
+4201 alternative Namensform Verf.: Schubart, Ludwig Albrecht
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7001 05-09-22 : x
+4800 !009033645!
+6710 !1032507993!
+7100 Bö-GS/C/Schubart, L. A./Brief 8 @ m
+7109 !!DBSM/S!! ; Bö-GS/C/Schubart, L. A./Brief 8
+	
+0500 Da
+0600 yy
+1100 1806$n22.04.1806
+1110 22.04.1806*22.04.1806$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !116671742!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Karoline Christiane Louise Rudolphi an Georg Joachim Göschen
+4046 Heidelberg
+4060 1 Br., 2 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 alternative Namensform Verf.: Rudolphi, Caroline
+4700 |BSM|
+4705 Verlagsangebot über ihr Werk "Briefe über weibliche Erziehung" (, das aber Göschen nicht verlegt hat, sondern das zu Heidelberg 1807 erschienen ist unter dem Titel: "Gemälde weiblicher Erziehung", 2 Teile); ferner meldet sie, daß sie einige kleine Aufsätze für das "Journal" (für deutsche Frauen, von deutschen Frauen geschrieben, hrsg. von Wieland, Schiller, Rochlitz und Seume) gleichzeitig durch Herrn Zimmer übersendet
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040239969!
+7001 05-09-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Rudolphi, C./Brief 1, Kasten 11 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Rudolphi, C./Brief 1, Kasten 11
 	
