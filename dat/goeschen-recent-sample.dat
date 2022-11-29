@@ -1,43 +1,125 @@
 0500 Da
 0600 yy
-1100 1805$n03.01.1805
-1110 03.01.1805*03.01.1805$4ezth
+1100 1786$n15.08.1786 [empfang. 26.8.]
+1110 15.08.1786 [empfang. 26.8.]*15.08.1786$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !11709501X!$BVerfasser$4aut
+3000 !118622358!$BVerfasser$4aut
 3010 !118695916!$BAdressat$4rcp
-4000 Brief von Johann Ernst Wagner an Georg Joachim Göschen
-4046 Meiningen
-4060 1 Br.
+4000 Brief von Moritz August von Thümmel an Georg Joachim Göschen
+4046 Altenburg
+4060 1 Br., 4 S., 8˚
 4105 !1059146037!
 4105 !1077661932!
 4700 |BSM|
 5560 [RNA]Korrespondenz
 5590 [Objektgattung]
 5590 !040082407!
-7001 05-09-22 : x
+7002 29-11-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Thümmel, M. A./Brief 1, Kasten 14 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Thümmel, M. A./Brief 1, Kasten 14
+	
+0500 Da
+0600 yy
+1100 1807$no.D. [empfang. im März 1807]
+1110 o.D. [empfang. im März 1807]$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !117140791!$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Christian Gottfried Schütz an Georg Joachim Göschen
+4046 Halle (Saale)
+4060 1 Br., 4 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040230252!
+7002 29-11-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Schütz, Chr. G./Brief 13, Kasten 12 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Schütz, Chr. G./Brief 13, Kasten 12
+	
+0500 Da
+0600 yy
+1100 1814$n14.01.1814
+1110 14.01.1814*14.01.1814$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !118695916!$BVerfasser$4aut
+3010 !117245119!$BAdressat$4rcp
+4000 Brief von Georg Joachim Göschen an Erdmann Ferdinand Steinacker
+4046 Grimma
+4060 1 Br., 3 S., 8˚
+4105 !1059146037!
+4105 !1077661932!
+4201 alternative Namensform Adr.: Ungenannt (= E. F. Steinacker, Leipzig)
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7002 29-11-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Göschen, G. J./Brief 26, Kasten 5 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Göschen, G. J./Brief 26, Kasten 5
+	
+0500 Da
+0600 yy
+1100 1788$n14.01.1788
+1110 14.01.1788*14.01.1788$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 Frommann, Friedrich$BVerfasser$4aut
+3010 !118695916!$BAdressat$4rcp
+4000 Brief von Friedrich Frommann an Georg Joachim Göschen
+4046 Sulechów
+4060 1 Br., 1 S., 4˚
+4105 !1059146037!
+4105 !1077661932!
+4700 |BSM|
+4705 Gratulation zu Göschens Verlobung mit Henriette Heun
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+7002 29-11-22 : x
 4800 !009033645!
 6710 !1032507993!
-7100 Bö-GS/C/Wagner, J. E./Brief 1 @ m
-7109 !!DBSM/S!! ; Bö-GS/C/Wagner, J. E./Brief 1
+7100 Bö-GS/C/Frommann, Fr./Brief 1 @ m
+7109 !!DBSM/S!! ; Bö-GS/C/Frommann, Fr./Brief 1
 	
 0500 Da
 0600 yy
-1100 1809$n25.10.1809
-1110 25.10.1809*25.10.1809$4ezth
+1100 1797$n29.03.1797 [empfang. 3.4.]
+1110 29.03.1797 [empfang. 3.4.]*29.03.1797$4ezth
 1130 TB-papier
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
 1500 /1ger
-3000 !116392576!$BVerfasser$4aut
+3000 !118648594!$BVerfasser$4aut
 3010 !118695916!$BAdressat$4rcp
-4000 Brief von Philipp Joseph von Rehfues an Georg Joachim Göschen
-4046 Stuttgart
-4060 1 Br., 4 S., 8˚
+4000 Brief von Johann Baptist von Alxinger an Georg Joachim Göschen
+4046 Wien
+4060 1 Br., 1 S.
 4105 !1059146037!
 4105 !1077661932!
 4700 |BSM|
@@ -45,95 +127,10 @@
 5590 [Objektgattung]
 5590 !040082407!
 5591 [Entstehungsort]
-5591 !040582825!
-7001 05-09-22 : x
+5591 !040660095!
+7002 29-11-22 : x
 4800 !009033645!
 6710 !1032507942!
-7100 Bö-GS/A/Rehfues, Ph. J./Brief 2, Kasten 11 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Rehfues, Ph. J./Brief 2, Kasten 11
-	
-0500 Da
-0600 yy
-1100 1799$n08.08.1799 [empfang. 10.8.]
-1110 08.08.1799 [empfang. 10.8.]*08.08.1799$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 Fiedler, F.$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von F. Fiedler an Georg Joachim Göschen
-4046 Jena
-4060 1 Br., 4 S., 8˚
-4105 !1059146037!
-4105 !1077661932!
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !04028557X!
-7001 05-09-22 : x
-4800 !009033645!
-6710 !1032507942!
-7100 Bö-GS/A/Fiedler, F./Brief 11, Kasten 4 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Fiedler, F./Brief 11, Kasten 4
-	
-0500 Da
-0600 yy
-1100 1789$n24.09.1789 [empfang. 2.10.]
-1110 24.09.1789 [empfang. 2.10.]*24.09.1789$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !116769416!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Johann Gottlob Marezoll an Georg Joachim Göschen
-4046 Göttingen
-4060 1 Br., 3 S., mit etw. Textverlust, 8˚
-4105 !1059146037!
-4105 !1077661932!
-4700 |BSM|
-4705 Betr. den Verlag seines "Andachtsbuches für das weibliche Geschlecht"
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !04021477X!
-7001 05-09-22 : x
-4800 !009033645!
-6710 !1032507942!
-7100 Bö-GS/A/Marezoll, J. G./Brief 2, Kasten 10 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Marezoll, J. G./Brief 2, Kasten 10
-	
-0500 Da
-0600 yy
-1100 1792$n27.07.1792 [empfang. 3.8.]
-1110 27.07.1792 [empfang. 3.8.]*27.07.1792$4ezth
-1130 TB-papier
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
-1500 /1ger
-3000 !118554077!$BVerfasser$4aut
-3010 !118695916!$BAdressat$4rcp
-4000 Brief von Ludwig Ferdinand Huber an Georg Joachim Göschen
-4046 Mainz
-4060 1 Br., 2 S., 8˚
-4105 !1059146037!
-4105 !1077661932!
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Objektgattung]
-5590 !040082407!
-5591 [Entstehungsort]
-5591 !040371247!
-7001 05-09-22 : x
-4800 !009033645!
-6710 !1032507942!
-7100 Bö-GS/A/Huber, L. F./Brief 10, Kasten 7 @ m
-7109 !!DBSM/S!! ; Bö-GS/A/Huber, L. F./Brief 10, Kasten 7
+7100 Bö-GS/A/Alxinger, J. B./Brief 44, Kasten 1 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Alxinger, J. B./Brief 44, Kasten 1
 	

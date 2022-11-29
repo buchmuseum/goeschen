@@ -1,0 +1,55 @@
+0500 Da
+0600 yy
+1100 1790$n13.12.1790
+1110 13.12.1790*13.12.1790$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !118695916!$BVerfasser$4aut
+3010 !007746105!$BAdressat$4rcp
+4000 Brief von Georg Joachim Göschen an Franckesche Stiftungen zu Halle. Waisenhaus. Buchhandlung
+4046 Leipzig
+4060 1 Br., 1 S. mit Anschrift auf S. 2, 8˚
+4105 !1059146037!
+4105 !1077661932!
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040352064!
+7002 29-11-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Göschen, G. J./Brief 7, Kasten 5 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Göschen, G. J./Brief 7, Kasten 5
+
+0500 Da
+0600 yy
+1100 1802$n08.11.1802
+1110 08.11.1802*08.11.1802$4ezth
+1130 TB-papier
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-hand;f1-text;f2-blatt;e2-uv;o-org;v-ganz
+1500 /1ger
+3000 !118695916!$BVerfasser$4aut
+3010 !007746105!$BAdressat$4rcp
+4000 Brief von Georg Joachim Göschen an Franckesche Stiftungen zu Halle. Waisenhaus. Buchhandlung
+4046 Leipzig
+4060 1 Br., 1 S. mit Anschrift auf S. 4, 8˚
+4105 !1059146037!
+4105 !1077661932!
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Objektgattung]
+5590 !040082407!
+5591 [Entstehungsort]
+5591 !040352064!
+7002 29-11-22 : x
+4800 !009033645!
+6710 !1032507942!
+7100 Bö-GS/A/Göschen, G. J./Brief 16, Kasten 5 @ m
+7109 !!DBSM/S!! ; Bö-GS/A/Göschen, G. J./Brief 16, Kasten 5
